@@ -1,0 +1,100 @@
+[{  
+    "vehicleNumber": 1,
+    "fullName": "John Wick",
+    "category": "truck",
+    "coordinates": {
+        "latitude": 35,
+        "longitude": -106
+    },
+    "phone": "89128899890"
+},
+{
+    "vehicleNumber": 2,
+    "fullName": "Dominic Torreto",
+    "category": "passenger",
+    "coordinates": {
+        "latitude": 51,
+        "longitude": -114
+    },
+    "phone": "89127777777"
+},
+{
+    "vehicleNumber": 3,
+    "fullName": "Michael Shumaher",
+    "category": "special",
+    "coordinates": {
+        "latitude": 9,
+        "longitude": -65
+    },
+    "phone": "89121111111"
+},
+{
+    "vehicleNumber": 4,
+    "fullName": "Optimus Prime",
+    "category": "truck",
+    "coordinates": {
+        "latitude": -15,
+        "longitude": 28
+    },
+    "phone": "88008888888"
+},
+{
+    "vehicleNumber": 5,
+    "fullName": "Buzz Lighter",
+    "category": "passenger",
+    "coordinates": {
+        "latitude": 27,
+        "longitude": 2
+    },
+    "phone": "89126666666"
+},
+{
+    "vehicleNumber": 6,
+    "fullName": "Bob Cargo",
+    "category": "truck",
+    "coordinates": {
+        "latitude": 52,
+        "longitude": 21
+    },
+    "phone": "89126767755"
+},
+{
+    "vehicleNumber": 7,
+    "fullName": "Sarah Connor",
+    "category": "truck",
+    "coordinates": {
+        "latitude": 33,
+        "longitude": 44
+    },
+    "phone": "89128118123"
+},
+{
+    "vehicleNumber": 8,
+    "fullName": "Ronald McDonald",
+    "category": "passenger",
+    "coordinates": {
+        "latitude": 51,
+        "longitude": 71
+    },
+    "phone": "89129123456"
+},
+{
+    "vehicleNumber": 9,
+    "fullName": "Doc Brown",
+    "category": "passenger",
+    "coordinates": {
+        "latitude": 57,
+        "longitude": 65
+    },
+    "phone": "89122013999"
+},
+{
+    "vehicleNumber": 10,
+    "fullName": "Freddy Mercury",
+    "category": "special",
+    "coordinates": {
+        "latitude": 39,
+        "longitude": -116
+    },
+    "phone": "88005553535"
+}]
