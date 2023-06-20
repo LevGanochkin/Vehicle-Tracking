@@ -2,9 +2,12 @@
 
 This app was created with react native and TypeScript on Expo. 
 
-To install this app on your device you will need:
-1. Download Node.js and npm (by package or "npm install")
-2. Type in terminal 'npx create-expo-app' to install react-native-expo app template.
-3. Download current repository in directory with your template
-4. Type 'npx expo prebuild'
-5. Then you may run prebuild on android: 'npx expo run:android' or ios: 'npx expo run:ios'
+You have several ways to test this app:
+
+1) Download .aab file from "releases" or by this link: https://expo.dev/artifacts/eas/4qXudLPEbSMdcrk4LYoMx2.aab .
+    To run this on your device (Android only!), you can use "APP BUNDLE INSTALLER" or "APK MIRRROR INSTALLER".
+
+3) You may download this repository and run the app on your emulator/IDE.
+   Make sure you have all required settings and packages installed.
+
+Have a good day!
