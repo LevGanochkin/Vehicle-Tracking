@@ -38,8 +38,6 @@ export const openWhatsApp = (message: string, phone: string) => {
   Linking.openURL('whatsapp://send?text=' + message + '&phone=+7' + phone);
 }
 
-export const GOOGLE_API_KEY: string = "AIzaSyDuPE0wh36WFO9gH5onuBbEDL1vxCEXso4";
-
 /* Координаты в json представлены строкой через запятую.
   тут они разделяются и возвращаются */
 
